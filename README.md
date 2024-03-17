@@ -1,7 +1,4 @@
-# sql_covid-19
-Covid-19 data exploration
-
-## COVID-19 Exploration Data
+# COVID-19 Exploration Data
 
 This SQL project explores and analyzes data related to COVID-19 deaths and vaccinations, likely stored in two tables named "CovidDeaths" and "CovidVaccinations" within the "PortfolioProject" schema. The script performs various queries to understand different aspects of the pandemic across locations and time.
 
